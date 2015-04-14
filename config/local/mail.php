@@ -54,7 +54,7 @@ return [
 	|
 	*/
 
-	'from' => ['address' => admin@kafilYatim.dz, 'name' => Mouloude],
+	'from' => ['address' => 'admin@kafilYatim.dz', 'name' => 'Mouloude'],
 
 	/*
 	|--------------------------------------------------------------------------
